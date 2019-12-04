@@ -1,0 +1,11 @@
+
+*.cache
+*.cache
+*.json
+*.ide-wal
+*.ide-shm
+*.ide
+*.lock
+*.sqlite
+.vs/table-parser/v16/.suo
+.vs/FieldParser/v16/.suo
