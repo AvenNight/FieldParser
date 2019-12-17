@@ -9,3 +9,16 @@
 *.sqlite
 .vs/table-parser/v16/.suo
 .vs/FieldParser/v16/.suo
+obj/Debug/TableParser.Properties.Resources.resources
+obj/Debug/TableParser.pdb
+obj/Debug/TableParser.ParserMainForm.resources
+obj/Debug/TableParser.exe
+obj/Debug/FieldParser.csproj.FileListAbsolute.txt
+obj/Debug/FieldParser.csproj.CopyComplete
+bin/Debug/TableParser.pdb
+bin/Debug/TableParser.exe.config
+bin/Debug/TableParser.exe
+bin/Debug/nunit.framework.dll
+bin/Debug/data.txt
+.vs/FieldParser/v16/TestStore/0/testlog.manifest
+.vs/FieldParser/v16/TestStore/0/000-0000.testlog
